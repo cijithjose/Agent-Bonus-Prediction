@@ -109,8 +109,11 @@ The most optimum model that was discovered in the analysis was that of Linear Re
 The most important variables which were a good predictor of ‘Agent Bonus’ are as below :
 
 1)Payment Method Monthly & Quaterly  :This means that whenever a customer chooses monthly and quarterly mode of payment the impact on Agent’Bonus is the most and can be analysed further to adapt a bonus plan strategy for Agents.
+
 2)Customer Tenure : this implies whenever customers tenure increase the agent bonus also increases so company should focus on telling agents to source cases where customer should be able to extend the tenure to maximum time , which can yield benefits for the company in terms of premium and bonus to agents
+
 3) Existing Product Type: The product type sold also plays a major impact on deciding Agents Bonus , Company should plan a strategy to  push Agents to sell the popular products and incentivize them for the sale.
+
 4)Existing Policy Tenure: The model says when the unit increase is seen in existing policy tenure the agent bonus also increases.
 
 
