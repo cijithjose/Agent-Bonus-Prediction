@@ -1,7 +1,7 @@
 # Agent-Bonus-Prediction
 
 
-INTRODUCTION
+# INTRODUCTION
 
 Insurance in India and everywhere else is used to cover the financial risk or the loss that the policy holder may have to face if they are involved in an incident that results in property, physical or any other damage. 
 A policy holder will typically pay’s insurer a month/annual fee which is also called a insurance premium. The insurance premium paid by the owner is determined by taking several parameters into consideration such as the customers marital status, credit history, whether the customer has an owned or rented accommodation, owners age ,gender and their previous history, the geographic details of the owner etc. Based on these factors an insurance company will increase premium or offer discounts based on the level of risk. 
