@@ -146,4 +146,3 @@ The most important variables which were a good predictor of ‘Agent Bonus’ ar
 •	Rewards and recognition 
              -for employees earning more than 5000 
 
-![image](https://github.com/cijithjose/Agent-Bonus-Prediction/assets/98333115/070b162e-807f-4d8a-bf6b-5319e51d1590)
